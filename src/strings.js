@@ -1,16 +1,16 @@
 import { cowColors } from './enums.js'
 
-export const PROGRESS_SAVED_MESSAGE = 'Progress saved!'
-export const RAIN_MESSAGE = 'It rained in the night!'
-export const STORM_MESSAGE = 'There was a storm in the night!'
+export const PROGRESS_SAVED_MESSAGE = '¡Progreso guardado!'
+export const RAIN_MESSAGE = '¡Llovió por la noche!'
+export const STORM_MESSAGE = '¡Hubo una tormenta en la noche!'
 export const STORM_DESTROYS_SCARECROWS_MESSAGE =
-  'There was a storm in the night! No scarecrows survived!'
+  '¡Hubo una tormenta en la noche! ¡Ningún espantapájaros sobrevivió!'
 export const FARM_PRODUCTS_TOOLTIP_TEXT =
-  'This figure only includes sales of grown crops, crafted items, and animal products.'
+  'Esta cifra solo incluye las ventas de cultivos, artículos artesanales y productos animales.'
 export const COW_SOLD_TOOLTIP_TEXT =
-  'This figure only includes cows you were not the original owner for.'
-export const DATA_DELETED = 'Your local game data has been deleted.'
-export const INVALID_DATA_PROVIDED = 'Invalid Farmhand data provided.'
+  'Esta cifra solo incluye vacas de las que no era propietario original.'
+export const DATA_DELETED = 'Los datos de tu juego local han sido eliminados.'
+export const INVALID_DATA_PROVIDED = 'Se proporcionaron datos de Farmhand no válidos.'
 export const UPDATE_AVAILABLE =
   "A game update is available! Click this message to reload and see what's new."
 export const SERVER_ERROR =
