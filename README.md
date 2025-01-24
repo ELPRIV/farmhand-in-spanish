@@ -28,13 +28,13 @@ Storefront links:
 - https://plaza.dsolver.ca/games/farmhand
 - https://www.appimagehub.com/p/1859153
 
-Farmhand is a resource management game that puts a farm in your hand. It is designed to be both desktop and mobile-friendly and fun for 30 seconds or 30 minutes at a time. Can you build a thriving farming business? Give it a try and find out!
+Farmhand es un juego de gestión de recursos que pone una granja en tus manos. Está diseñado para ser compatible con computadoras de escritorio y dispositivos móviles y divertido durante 30 segundos o 30 minutos a la vez. ¿Podrás construir un negocio agrícola próspero? ¡Pruébalo y descúbrelo!
 
-This is an open source project built with web technologies. It is implemented as a [Progressive Web App](https://web.dev/what-are-pwas/), which means it can be played in your web browser or installed onto your device for offline play.
+Este es un proyecto de código abierto construido con tecnologías web. Está implementado como una aplicación web progresiva, lo que significa que puede reproducirse en su navegador web o instalarse en su dispositivo para jugar sin conexión.
 
-## State of the project
+## Estado del proyecto
 
-Farmhand is completely playable and stable. However, the game should not be considered "finished," inasmuch as it will never be finished. It is an ongoing open source project that will grow and improve organically over time. Stability and cohesiveness are top priorities for the project. It'll only ever get better and have more content over time!
+Farmhand es completamente jugable y estable. Sin embargo, el juego no debe considerarse "terminado", ya que nunca estará terminado. Es un proyecto de código abierto en curso que crecerá y mejorará orgánicamente con el tiempo. La estabilidad y la cohesión son las principales prioridades del proyecto. ¡Sólo mejorará y tendrá más contenido con el tiempo!
 
 [This GitHub project](https://github.com/jeremyckahn/farmhand/projects/1) is used for tracking and organizing work. If you'd like to suggest a feature or ask a question, please [open a GitHub issue](https://github.com/jeremyckahn/farmhand/issues), or [join the Discord](https://discord.gg/6cHEZ9H).
 
